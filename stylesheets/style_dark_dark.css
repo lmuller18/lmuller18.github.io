@@ -744,8 +744,7 @@ body.scale-effect .btn-holder .btn-play {
 }
 #home .menu .logo-flat img {
   /*logo image*/
-  width: 100%;
-  padding: 28px 44px 44px 44px;
+  height: 200px;
 }
 #home .menu-open {
   /*set left 0 to open menu*/
@@ -845,6 +844,7 @@ body.scale-effect .btn-holder .btn-play {
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
+  padding: 250px 0;
 }
 
 /*-------------------------------------------------------------------------------
@@ -1282,7 +1282,7 @@ body.scale-effect .btn-holder .btn-play {
     /*vertical line for experience in min width 768 */
     left: 50%;
     margin-left: -2px;
-    height: 85%;
+    height: 75%;
     opacity: 0.4;
     background: #06a763;
   }
